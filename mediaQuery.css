@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+
+    body {
+        width: 60vw;
+        margin: auto;
+    }
+    header h1 {
+        
+        font-variant: small-caps;
+        font-size: 8vw;
+    }
+    section > p {
+        font-family: 'Sriracha', cursive;
+        font-size: 2vw;
+        line-height: 2em;
+    }
+    
+}
